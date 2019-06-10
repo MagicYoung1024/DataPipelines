@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Analysis" />
+        <module name="Cache" />
+        <module name="Common" />
+        <module name="Consumer" />
+        <module name="ConsumerCoprocessor" />
+        <module name="Producer" />
+        <module name="Web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Analysis" target="1.5" />
+      <module name="Cache" target="1.5" />
+      <module name="Common" target="1.5" />
+      <module name="Consumer" target="1.5" />
+      <module name="ConsumerCoprocessor" target="1.5" />
+      <module name="DataPipelines" target="1.5" />
+      <module name="Producer" target="1.5" />
+      <module name="Web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

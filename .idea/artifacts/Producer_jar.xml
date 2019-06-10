@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Producer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Producer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Producer.jar">
+        <element id="module-output" name="Producer" />
+        <element id="module-output" name="Common" />
+      </element>
+    </root>
+  </artifact>
+</component>

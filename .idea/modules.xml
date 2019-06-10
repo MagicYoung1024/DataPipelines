@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Analysis/Analysis.iml" filepath="$PROJECT_DIR$/Analysis/Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cache/Cache.iml" filepath="$PROJECT_DIR$/Cache/Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumerCoprocessor/ConsumerCoprocessor.iml" filepath="$PROJECT_DIR$/ConsumerCoprocessor/ConsumerCoprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataPipelines.iml" filepath="$PROJECT_DIR$/DataPipelines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer/Producer.iml" filepath="$PROJECT_DIR$/Producer/Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
+    </modules>
+  </component>
+</project>
